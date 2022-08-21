@@ -8,3 +8,5 @@
 Github|慢|不可用|不推荐|https://github.com/15059365315/CDN
 jsdelivr|快|不可用|不推荐|https://cdn.jsdelivr.net/gh/15059365315/CDN/
 Cloudflare|较慢|可用|推荐|https://cdn.sibaihua.top
+## 停更说明
+由于Github在境内越来越不可用，上传文件变得不再方便。所以Github此仓库停止更新。
